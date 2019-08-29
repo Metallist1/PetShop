@@ -1,0 +1,12 @@
+C:\Users\nedas\Desktop\Everything\School\CsharpProjects\PetShopApp\PetShopApp.Core\bin\Debug\netstandard2.0\PetShopApp.Core.deps.json
+C:\Users\nedas\Desktop\Everything\School\CsharpProjects\PetShopApp\PetShopApp.Core\bin\Debug\netstandard2.0\PetShopApp.Core.dll
+C:\Users\nedas\Desktop\Everything\School\CsharpProjects\PetShopApp\PetShopApp.Core\bin\Debug\netstandard2.0\PetShopApp.Core.pdb
+C:\Users\nedas\Desktop\Everything\School\CsharpProjects\PetShopApp\PetShopApp.Core\bin\Debug\netstandard2.0\PetShopApp.Core.Entities.dll
+C:\Users\nedas\Desktop\Everything\School\CsharpProjects\PetShopApp\PetShopApp.Core\bin\Debug\netstandard2.0\PetShopApp.Core.Entities.pdb
+C:\Users\nedas\Desktop\Everything\School\CsharpProjects\PetShopApp\PetShopApp.Core\obj\Debug\netstandard2.0\PetShopApp.Core.csprojAssemblyReference.cache
+C:\Users\nedas\Desktop\Everything\School\CsharpProjects\PetShopApp\PetShopApp.Core\obj\Debug\netstandard2.0\PetShopApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\nedas\Desktop\Everything\School\CsharpProjects\PetShopApp\PetShopApp.Core\obj\Debug\netstandard2.0\PetShopApp.Core.AssemblyInfoInputs.cache
+C:\Users\nedas\Desktop\Everything\School\CsharpProjects\PetShopApp\PetShopApp.Core\obj\Debug\netstandard2.0\PetShopApp.Core.AssemblyInfo.cs
+C:\Users\nedas\Desktop\Everything\School\CsharpProjects\PetShopApp\PetShopApp.Core\obj\Debug\netstandard2.0\PetShopApp.Core.csproj.CopyComplete
+C:\Users\nedas\Desktop\Everything\School\CsharpProjects\PetShopApp\PetShopApp.Core\obj\Debug\netstandard2.0\PetShopApp.Core.dll
+C:\Users\nedas\Desktop\Everything\School\CsharpProjects\PetShopApp\PetShopApp.Core\obj\Debug\netstandard2.0\PetShopApp.Core.pdb
